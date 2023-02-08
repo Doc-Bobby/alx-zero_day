@@ -1,0 +1,3 @@
+git fetch
+git origin/master
+git pull
